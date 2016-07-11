@@ -8,4 +8,8 @@ Copy `codeblocks.py` into
 `/usr/local/lib/python2.7/dist-packages/pygments/styles/`
 
 ### Fedora:
-`/usr/lib64/python2.7/site-packages/pygments/`
+`/usr/lib64/python2.7/site-packages/pygments/styles/`
+
+----
+
+Make sure that `codeblocks.py` doesn't have execution permission.
